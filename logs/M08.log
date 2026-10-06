@@ -1,0 +1,5 @@
+machine=M08
+date=2026-10-05
+temperature=88.1
+status=ERROR
+error=OVERHEAT

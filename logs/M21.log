@@ -1,0 +1,5 @@
+machine=M21
+date=2026-10-05
+temperature=91.7
+status=ERROR
+error=TEMP_CRITICAL

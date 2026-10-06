@@ -1,0 +1,5 @@
+machine=M03
+date=2026-10-05
+temperature=73.8
+status=WARNING
+error=TEMP_HIGH

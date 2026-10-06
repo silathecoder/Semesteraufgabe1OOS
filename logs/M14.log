@@ -1,0 +1,5 @@
+machine=M14
+date=2026-10-05
+temperature=79.2
+status=WARNING
+error=VIBRATION_HIGH
